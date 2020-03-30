@@ -1,3 +1,4 @@
+//backend logic
 var cards = []
 var suits = ['hearts', 'diamonds', 'clubs', 'spades']
 suits.forEach(function (suit) {
@@ -16,4 +17,3 @@ suits.forEach(function (suit) {
     }
   }
 })
-console.log(cards)
